@@ -8,7 +8,7 @@ publisher:
   url: 'https://www.youtube.com/'
   name: YouTube
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+  domain: youtu.be
 keywords:
   - spiritualityforyou
   - duration
@@ -63,10 +63,10 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=LZDe-4N7BpI'
+isBasedOnUrl: 'https://youtu.be/LZDe-4N7BpI'
 title: 'Your Soul Purpose Revealed: Your Soul''s Agenda'
-datePublished: '2016-08-19T12:09:05.179Z'
-dateModified: '2016-08-19T12:05:57.831Z'
+datePublished: '2016-08-19T12:09:12.504Z'
+dateModified: '2016-08-19T11:40:02.554Z'
 via: {}
 starred: false
 sourcePath: _posts/2016-08-19-your-soul-purpose-revealed-your-souls-agenda.md
